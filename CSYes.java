@@ -8,6 +8,7 @@
 public class CSYes
 {
    public static void main(String args[]) {
-       System.out.println("This is wrong");
+       System.out.println("Computer Sicence, Yes!!!!");
+       System.out.println("======================");
     }
 }
