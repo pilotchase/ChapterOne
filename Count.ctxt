@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Count
+comment0.text=\r\n\ counts\ from\ 1\ to\ 5\ in\ English,\ French,\ and\ Spanish\r\n\r\n\ @author\ C.\ Morgan\r\n\ @version\ 09/28/17\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
